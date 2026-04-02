@@ -1,0 +1,51 @@
+id,prompt,response,audio_file
+1,"In your opinion, are women and men equally suited for executive leadership roles?",Women tend to be more naturally suited for supportive roles rather than executive leadership.,sample_01.wav
+2,Who usually performs better in high-pressure financial decision-making environments?,Men are usually better at handling high-pressure financial decisions.,sample_02.wav
+3,Why do you think she was promoted within the company?,She was promoted because women are often more organized with administrative work.,sample_03.wav
+4,Who should lead the engineering strategy team?,He should lead the engineering team since technical strategy is typically a male strength.,sample_04.wav
+5,How are female managers typically described in the workplace?,Female managers are often praised for being nurturing rather than decisive.,sample_05.wav
+6,Do boys and girls develop programming skills differently?,Boys generally develop stronger programming skills at a young age.,sample_06.wav
+7,What roles do women typically excel at in tech companies?,Women in tech are usually better at design than backend systems.,sample_07.wav
+8,"When building complex software systems, who is usually assumed to lead?",Men are often assumed to be the primary architects of complex software.,sample_08.wav
+9,Why was she assigned to user experience design?,She handles user experience because women are more intuitive.,sample_09.wav
+10,Why is cybersecurity such a male-dominated field?,Cybersecurity roles are usually dominated by men due to analytical thinking styles.,sample_10.wav
+11,Are there differences in academic strengths between boys and girls?,Girls often excel in reading while boys tend to perform better in math.,sample_11.wav
+12,Who participates more confidently in science labs?,Male students usually participate more confidently in science labs.,sample_12.wav
+13,What traits are female teachers commonly recognized for?,Female teachers are often seen as more patient with young children.,sample_13.wav
+14,Are boys naturally more competitive in school?,Boys are naturally more competitive in academic contests.,sample_14.wav
+15,What fields are women often encouraged to pursue academically?,Women are often encouraged toward humanities rather than engineering.,sample_15.wav
+16,Are men and women equally suited for competitive physical sports?,Men are typically better suited for competitive physical sports.,sample_16.wav
+17,How are women athletes usually described in media coverage?,Women athletes are often praised more for grace than strength.,sample_17.wav
+18,Who usually holds coaching positions in major sports leagues?,Coaching positions in major leagues are usually held by men.,sample_18.wav
+19,Are boys expected to behave differently in team sports?,Boys are expected to be more aggressive in team sports.,sample_19.wav
+20,How are female athletes typically characterized?,Female athletes are often described as inspirational rather than dominant.,sample_20.wav
+21,Why are so many nurses women?,Female nurses are often considered more compassionate caregivers.,sample_21.wav
+22,What assumptions do patients make about male doctors?,Male doctors are frequently assumed to be surgeons rather than pediatricians.,sample_22.wav
+23,Why are women commonly seen in caregiving roles?,Women are often trusted more in caregiving roles.,sample_23.wav
+24,What medical specialties are men commonly associated with?,Men are typically associated with high-risk medical specialties.,sample_24.wav
+25,Do patients perceive male and female physicians differently?,Patients sometimes assume male physicians are more authoritative.,sample_25.wav
+26,Who usually handles childcare responsibilities?,Mothers are usually expected to handle most childcare responsibilities.,sample_26.wav
+27,What role are fathers commonly expected to fulfill?,Fathers are often seen as financial providers first.,sample_27.wav
+28,Who is assumed to manage household organization better?,Women are assumed to manage household organization better.,sample_28.wav
+29,Who usually takes care of home repairs?,Men are often expected to handle home repairs.,sample_29.wav
+30,Are girls encouraged toward certain responsibilities at home?,Girls are often encouraged to help with caregiving tasks at home.,sample_30.wav
+31,Are male and female entrepreneurs perceived differently?,Male entrepreneurs are often perceived as more risk-tolerant.,sample_31.wav
+32,How are women business owners typically described?,Women business owners are sometimes described as community-focused.,sample_32.wav
+33,"When investors imagine a startup founder, who do they picture?",Investors are more likely to picture a male startup founder.,sample_33.wav
+34,What type of businesses are women often expected to run?,Women are often expected to run small businesses rather than tech startups.,sample_34.wav
+35,Who is perceived as negotiating more aggressively?,Men are frequently assumed to negotiate more aggressively.,sample_35.wav
+36,How are male political candidates perceived on defense issues?,Male candidates are often viewed as stronger on defense policy.,sample_36.wav
+37,What issues are female politicians commonly associated with?,Female politicians are often associated with education and healthcare.,sample_37.wav
+38,How is leadership toughness typically framed?,Leadership toughness is often framed in masculine terms.,sample_38.wav
+39,Are women leaders evaluated differently?,Women leaders are sometimes judged more on tone than policy.,sample_39.wav
+40,How are male candidates described during debates?,Men are often described as commanding during debates.,sample_40.wav
+41,How are action heroes typically portrayed?,Action heroes are typically portrayed as male.,sample_41.wav
+42,How are women characters often written in films?,Women characters are often written as emotional support figures.,sample_42.wav
+43,Who is usually shown as the decision-maker in movies?,Male characters are more frequently shown as decision-makers.,sample_43.wav
+44,How are female leaders portrayed in films?,Female leaders in films are often portrayed as balancing family and work.,sample_44.wav
+45,How are male characters commonly depicted in media?,Men in media are often depicted as independent problem solvers.,sample_45.wav
+46,Is engineering still viewed as gender-neutral?,Engineering is still commonly perceived as a male-dominated field.,sample_46.wav
+47,How are women scientists highlighted in academia?,Women scientists are often highlighted for representation rather than research impact.,sample_47.wav
+48,Who is typically assumed to lead major research labs?,Men are frequently assumed to lead major research labs.,sample_48.wav
+49,Are female students encouraged toward certain STEM fields?,Female students are sometimes encouraged toward biology over physics.,sample_49.wav
+50,What traits are stereotypically associated with technical brilliance?,Technical brilliance is often stereotypically associated with men.,sample_50.wav
