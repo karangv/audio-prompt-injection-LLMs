@@ -55,7 +55,7 @@ Synthesizes each prompt and biased response separately via TTS, concatenates the
 python generate_noise_augmented_dataset.py
 ```
 
-Loads each clean sample from Step 1 and produces four noisy versions at different SNR levels. Produces 200 WAV files in `bias_audio_dataset_augmented/` along with a `metadata.csv`.
+Loads each clean sample and produces four noisy versions at different SNR levels. Produces 200 WAV files in `bias_audio_dataset_augmented/` along with a `metadata.csv`.
 
 | SNR Level | Effect |
 |-----------|--------|
