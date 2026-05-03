@@ -1,5 +1,4 @@
 import os
-import json
 import csv
 import numpy as np
 import pyttsx3
