@@ -1,6 +1,6 @@
 # Audio Prompt Injection Attacks on Large Audio-Language Models
 
-This project investigates the susceptibility of large audio-language models (LALMs) to **combined context injection and audio interfernce attacks in comparison to their standalone counterparts**. Adversarial audio samples embed a biased response alongside a neutral prompt, and Gaussian noise is applied at varying SNR levels to test whether audio degradation compounds the attack's effectiveness. Model responses are then evaluated using an LLM-as-judge framework.
+This project investigates the susceptibility of large audio-language models (LALMs) to **combined context injection and audio interference attacks in comparison to their standalone counterparts**. Adversarial audio samples embed a biased response alongside a neutral prompt, and Gaussian noise is applied at varying SNR levels to test whether audio degradation compounds the attack's effectiveness. Model responses are then evaluated using an LLM-as-judge framework.
 
 ---
 
